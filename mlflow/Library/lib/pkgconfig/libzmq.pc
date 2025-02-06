@@ -1,0 +1,12 @@
+prefix=d:/projects/mlflow/mlflow/Library
+exec_prefix=d:/projects/mlflow/mlflow/Library
+libdir=d:/projects/mlflow/mlflow/Library/lib
+includedir=d:/projects/mlflow/mlflow/Library/include
+
+Name: libzmq
+Description: 0MQ c++ library
+Version: 4.3.5
+Libs: -L${libdir} -lzmq
+Libs.private: 
+Requires.private: 
+Cflags: -I${includedir} 

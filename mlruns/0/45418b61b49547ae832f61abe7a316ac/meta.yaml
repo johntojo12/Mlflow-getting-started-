@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/45418b61b49547ae832f61abe7a316ac/artifacts
+end_time: 1738394109017
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 45418b61b49547ae832f61abe7a316ac
+run_name: exultant-moth-515
+run_uuid: 45418b61b49547ae832f61abe7a316ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738394108954
+status: 3
+tags: []
+user_id: hp

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2be1a4aa5ce64c9b9eb6b56483e49e85/artifacts
+end_time: 1738393616322
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2be1a4aa5ce64c9b9eb6b56483e49e85
+run_name: beautiful-wren-620
+run_uuid: 2be1a4aa5ce64c9b9eb6b56483e49e85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738393616224
+status: 3
+tags: []
+user_id: hp
